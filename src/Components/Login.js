@@ -16,13 +16,11 @@ class Login extends Component{
   render(){
       return(
        
-        // <h1> House Management System </h1>
-        // <h3 class="text-center text-white pt-5"> Login </h3>
         <div class="auth">
           <div class="container">
             
             <div id = "header">
-            <h1>Housify</h1>
+            <h1>Notepad</h1>
             </div>
 
               <div id="auth-row" class="row justify-content-center align-items-center">

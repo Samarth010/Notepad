@@ -13,7 +13,7 @@ class SignUp extends Component {
         return (
           <div class="auth">
           <div class="container">
-          <h3>Housify</h3>
+          <h3>Notepad</h3>
               <div id="auth-row" class="row justify-content-center align-items-center">
                   <div id="auth-column" class="col-md-5">
                       <div id="auth-box" class="col-md-11">
